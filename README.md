@@ -7,9 +7,7 @@ Dieses Repository enthält ausschließlich die veröffentlichten Installationspa
 ## Download
 
 - **[SoftwareSwitch herunterladen](https://github.com/Airvyn1/SoftwareSwitch-Releases/releases/latest/download/SoftwareSwitch-win-Setup.exe)** (empfohlen, mit Installer)
-- [Portable Version](https://github.com/Airvyn1/SoftwareSwitch-Releases/releases/latest/download/SoftwareSwitch-win-Portable.zip) (kein Installer, direkt ausführbar)
-
-Beide Links führen immer automatisch zur jeweils neuesten Version.
+- [Portable Version](https://github.com/Airvyn1/SoftwareSwitch-Releases/releases/latest/download/SoftwareSwitch-win-Portable.zip)
 
 ## Automatische Updates
 
